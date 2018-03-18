@@ -5,7 +5,7 @@ import (
 	"time"
 )
 
-const version = "3.1.4"
+const version = "3.1.5-dev"
 
 func main() {
 	fmt.Println("first version is: 3.1.4")

@@ -1,4 +1,4 @@
-# bumpversion-example 3.1.4
+# bumpversion-example 3.1.5-dev
 
 Install [Bumpversion](https://github.com/peritus/bumpversion)
 
